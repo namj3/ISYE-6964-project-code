@@ -1,0 +1,1 @@
+This code uses 1 step lookahead strategy. Forward search algorithm is base on this code.
